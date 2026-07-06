@@ -24,7 +24,7 @@ const Home = () => {
 				<div className="row">
 
 					<Card
-						imagen={gojo}
+						imagen={gojo} 
 						nombre="Satoru Gojo"
 						descripcion="El hechicero más fuerte del mundo."
 						boton="Ver Perfil"
